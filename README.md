@@ -2,6 +2,8 @@
   <img src="jamie.png" width="600"/>
 </div>
 
+&nbsp;
+
 ### about me!
 - mexican-american girl from northern california
 - data science student @ university of san francisco '27
