@@ -1,26 +1,4 @@
-<div align="center">
-  <img src="jamie.png" width="600"/>
-</div>
 
-&nbsp;
-
-### about me!
-- mexican-american girl from northern california
-- data science student @ university of san francisco '27
-- film & tv @ boston university
-- obsessed with film, culture and the stories data tells
-- based in san francisco
-
-&nbsp;
-
-```python
-jamie = {
-  "based_in" : "San Francisco, CA",
-  "studying" : "Data Science @ USF",
-  "currently" : "building an analytics portfolio",
-  "goal" : "data science in media, tech, or entertainment",
-}
-```
 &nbsp;
 
 ### tools
